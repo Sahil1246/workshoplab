@@ -75,10 +75,10 @@
     
 // })
 
-// let arr=[1,2,3,45,6]
-//     let data=arr,find(a)=>{
-//         return a=5
-//     }
-//     console.log(data);
+let arr=[1,2,3,45,6]
+    let data=arr,find(a)=>{
+        return a=5
+    }
+    console.log(data);
     
 
