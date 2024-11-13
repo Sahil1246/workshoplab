@@ -1,0 +1,41 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+} */
+fieldset{
+   
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    
+
+    background-color: aqua;
+    /* background: black; */
+    text-align: center;
+    font-size: larger;
+    font-style: italic;
+    font: bold;
+    color: rgb(0, 8, 255);
+    /* width: 100px; */
+}
+body{
+    align-content: center;
+    justify-content: center;
+    width: 550px;
+    height: 300px;
+    margin-left: 30%;
+    /* padding: 10%; */
+    background: black;
+}
+#er1{
+    width: 70px;
+    height: 25px;
+    border-radius: 20px;
+    
+}
+h2{
+    color: black;
+    font-size: xx-large;
+    
+}
+

@@ -1,0 +1,28 @@
+
+*{
+    margin: 50px;
+    padding: 25px;
+    
+}
+table{
+    color: #da0e0e;
+    border-color: rgb(1, 7, 5);
+    background-color: rgb(162, 162, 239);
+    height: 500px;
+    width: 500px;
+    /* border-radius: 6px; */
+    
+    
+}
+td{
+    /* align-items: center;
+    justify-content: center; */
+    text-align: center;
+}
+tr td {
+    color: black;
+    background: #fce98b;
+}
+tr{
+    background-color: #32f0b4ae;
+}

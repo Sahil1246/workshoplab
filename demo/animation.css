@@ -1,0 +1,11 @@
+/* #parent{
+    width: 500px;
+    height: 400px;
+    color: aqua;
+    border-color: blue;
+} */
+div {
+    background: #bc1d1d;
+    width: 200px;
+    height: 900px;
+}
